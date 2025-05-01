@@ -1,1 +1,2 @@
-print("Hello world!")
+def summa(a, b):
+    print(a + b)
